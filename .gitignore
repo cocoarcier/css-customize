@@ -1,0 +1,7 @@
+Thumbs.db
+.DS_Store
+node_modules/
+vendor/
+build/
+.eslintcache
+.stylelintcache
