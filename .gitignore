@@ -5,3 +5,4 @@ vendor/
 build/
 .eslintcache
 .stylelintcache
+.wp-env.override.json
