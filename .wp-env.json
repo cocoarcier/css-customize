@@ -1,0 +1,25 @@
+{
+    "config": {
+        "WP_DEBUG": true,
+        "WP_DEBUG_LOG": true,
+        "WP_DEBUG_DISPLAY": true
+    },
+    "core": "https://ja.wordpress.org/latest-ja.zip",
+    "env": {},
+    "mappings": {},
+    "phpVersion": "8.2",
+    "port": 57000,
+    "testsPort": 57001,
+    "plugins": [
+        ".",
+        "https://downloads.wordpress.org/plugin/query-monitor.zip",
+        "https://downloads.wordpress.org/plugin/wordpress-beta-tester.zip",
+        "https://downloads.wordpress.org/plugin/wp-crontrol.zip",
+        "https://downloads.wordpress.org/plugin/wp-multibyte-patch.zip",
+        "https://downloads.wordpress.org/plugin/wp-phpmyadmin-extension.zip"
+    ],
+    "themes": [
+        "https://github.com/xserver-inc/cocoon/archive/refs/heads/master.zip"
+    ],
+    "lifecycleScripts": {}
+}
