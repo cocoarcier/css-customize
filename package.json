@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "wp-env": "wp-env"
+  },
   "devDependencies": {
     "@wordpress/env": "^9.1.0"
   }
