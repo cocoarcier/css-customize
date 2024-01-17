@@ -11,6 +11,7 @@
     "port": 57000,
     "testsPort": 57001,
     "plugins": [
+        ".",
         "https://downloads.wordpress.org/plugin/query-monitor.zip",
         "https://downloads.wordpress.org/plugin/wordpress-beta-tester.zip",
         "https://downloads.wordpress.org/plugin/wp-crontrol.zip",
